@@ -7,7 +7,7 @@
 **Repo Link**
 https://github.com/johnngugi/mockup1
 
-**features** Two page website with navbar links:
+**features** Two page website with navbar links:  
 1. Home  
 2. Donate  
 3. About Us
