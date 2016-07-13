@@ -2,7 +2,7 @@
 
 # Refugee Aid
 
-**Project Details** A website for an organisation that offers aid to refugees http://refugee-aid.bitballoon.com/donation
+**Project Details** A website for an organisation that offers aid to refugees http://refugee-aid.bitballoon.com/
 
 **Repo Link**
 https://github.com/johnngugi/mockup1
