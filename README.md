@@ -17,9 +17,9 @@ https://github.com/johnngugi/mockup1
 **Contributors** [John Ngugi](https://github.com/johnngugi)
 
 
-# f1
+# Design
 
-This is a website for a design agency
+**Project Details** This is a website for a design agency
 
 **Repo Link**
 https://github.com/johnngugi/f1-front-end-task
