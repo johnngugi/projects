@@ -12,7 +12,7 @@ https://github.com/johnngugi/mockup1
 2. Donate  
 3. About Us
 
-**Tools** Foundation 6, Jquery
+**Tools** HTML, CSS, Foundation 6, jQuery
 
 **Contributors** [John Ngugi](https://github.com/johnngugi)
 
@@ -31,5 +31,7 @@ https://github.com/johnngugi/f1-front-end-task
 4. Members  
 5. Home  
 6. Contact  
+
+**Tools** HTML, CSS, Foundation 6, jQuery
 
 **Contributors** [John Ngugi](https://github.com/johnngugi)
