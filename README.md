@@ -63,9 +63,12 @@ https://github.com/johnngugi/web-experts
 
 **Contributors** [John Ngugi](https://github.com/johnngugi)
 
+
 ## Python Projects
 
-# Blog
+
+
+# Microblog
 
 **Project Details** [An online blog](https://johnmicroblog.herokuapp.com)
 
@@ -76,8 +79,22 @@ https://github.com/johnngugi/microblog
 1. Sign Up and Login pages  
 2. Make blog posts  
 3. Users can view their profile
+
+
+
+# Todoapp
+
+**Project Details** [An personal planning app](https://johntodoapp.herokuapp.com/)
+
+**Repo Link**
+https://github.com/johnngugi/todo-app
+
+**Features** Two page website with navbar links:  
+1. Sign in with Twitter  
+2. Users can add tasks to do, edit existing tasks or delete existing tasks  
+3. Users can add categories of tasks, add new categories and delete categories
     
 
-**Tools** Foundation 6, Flask
+**Tools** Materialize.css, Flask Python Framework, Python, HTML, CSS
 
 **Contributors** [John Ngugi](https://github.com/johnngugi)
