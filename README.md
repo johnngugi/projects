@@ -1,4 +1,5 @@
-# Portfolio       
+# Portfolio    
+   [My Personal Website](http://john-ngugi.netlify.com/)
 
 
 
@@ -8,7 +9,8 @@
 
 # Refugee Aid
 
-**Project Details** A website for an organisation that offers aid to refugees https://johnngugi.github.io/mockup1/
+**Project Details** A website for an organisation that offers aid to refugees 
+https://johnngugi.github.io/mockup1/
 
 **Repo Link**
 https://github.com/johnngugi/mockup1
@@ -32,7 +34,7 @@ https://johnngugi.github.io/f1-front-end-task/.
 **Repo Link**
 https://github.com/johnngugi/f1-front-end-task
 
-**features** Two page website with navbar links:  
+**Features** Two page website with navbar links:  
 1. About  
 2. Blog  
 3. Portfolio  
@@ -98,3 +100,18 @@ https://github.com/johnngugi/todo-app
 **Tools** Materialize.css, Flask Python Framework, Python, HTML, CSS
 
 **Contributors** [John Ngugi](https://github.com/johnngugi)
+
+
+## Android Projects
+
+
+
+# MusicPlayer
+
+**Project Details** A music player android app
+
+**Repo Link**
+https://github.com/johnngugi/Music-App
+
+**Features**  
+1. Users can play music files on their phones
