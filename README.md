@@ -24,23 +24,18 @@
 
 
 
-# Design
+# polishCafe
 
-**Project Details**: [This is a website for a design agency](https://johnngugi.github.io/f1-front-end-task/)
+[Polish Cafe Website](http://john-s-polish-cafe.bitballoon.com/)
 
-**Repo Link**: https://github.com/johnngugi/f1-front-end-task
+**Repo Link**: https://github.com/johnngugi/polishCafe
 
-**Features**: Two page website with navbar links:  
-1. About  
-2. Blog  
-3. Portfolio  
-4. Members  
-5. Home  
-6. Contact  
+**Project Details**: A Polish Cafe Website
 
-**Tools**: HTML, CSS, Foundation 6, jQuery
+**Features**: One page website for a fast food restaurant
 
 **Contributors**: [John Ngugi](https://github.com/johnngugi)
+
 
 
 
